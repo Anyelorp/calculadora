@@ -1,0 +1,16 @@
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\bin\Debug\net8.0-windows\calculadora-2.exe
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\bin\Debug\net8.0-windows\calculadora-2.deps.json
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\bin\Debug\net8.0-windows\calculadora-2.runtimeconfig.json
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\bin\Debug\net8.0-windows\calculadora-2.dll
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\bin\Debug\net8.0-windows\calculadora-2.pdb
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\obj\Debug\net8.0-windows\calculadora-2.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\obj\Debug\net8.0-windows\calculadora-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\obj\Debug\net8.0-windows\calculadora-2.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\obj\Debug\net8.0-windows\calculadora-2.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\obj\Debug\net8.0-windows\calculadora-2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\obj\Debug\net8.0-windows\calculadora-2.dll
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\obj\Debug\net8.0-windows\refint\calculadora-2.dll
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\obj\Debug\net8.0-windows\calculadora-2.pdb
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\obj\Debug\net8.0-windows\calculadora-2.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\obj\Debug\net8.0-windows\ref\calculadora-2.dll
+C:\Users\Alumno\source\repos\calculadora-2\calculadora-2\obj\Debug\net8.0-windows\calculadora_2.Calculadora.resources
